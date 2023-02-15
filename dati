@@ -11,62 +11,50 @@
  }
 },
 {
-"targa":"FE949ER",
-"marca":"FIAT",
-"modello":"Punto",
-"tariffa":98,
+"targa":"XX948ER",
+"marca":"AUDI",
+"modello":"Q5",
+"tariffa":145,
 "cliente":{
- "nome":"Mario",
- "cognome":"Rossi",
- "anno":2000,
- "giorni":7
+ "nome":"Giovanni",
+ "cognome":"Verdi",
+ "anno":1977,
+ "giorni":5
  }
 },
 {
-"targa":"FE949ER",
-"marca":"FIAT",
-"modello":"Punto",
-"tariffa":98,
+"targa":"TR222TY",
+"marca":"MERCEDES",
+"modello":"GLC",
+"tariffa":234,
 "cliente":{
- "nome":"Mario",
- "cognome":"Rossi",
- "anno":2000,
- "giorni":7
+ "nome":"Simona",
+ "cognome":"Bianchi",
+ "anno":2003,
+ "giorni":15
  }
 },
 {
-"targa":"FE949ER",
-"marca":"FIAT",
-"modello":"Punto",
-"tariffa":98,
+"targa":"WW900ER",
+"marca":"LANCIA",
+"modello":"RED",
+"tariffa":78,
 "cliente":{
- "nome":"Mario",
- "cognome":"Rossi",
- "anno":2000,
- "giorni":7
+ "nome":"Luca",
+ "cognome":"Nero",
+ "anno":2001,
+ "giorni":12
  }
 },
 {
-"targa":"FE949ER",
-"marca":"FIAT",
-"modello":"Punto",
-"tariffa":98,
+"targa":"GG845TU",
+"marca":"FERRARI",
+"modello":"F40",
+"tariffa":598,
 "cliente":{
- "nome":"Mario",
- "cognome":"Rossi",
+ "nome":"Paola",
+ "cognome":"Giallo",
  "anno":2000,
- "giorni":7
- }
-},
-{
-"targa":"FE949ER",
-"marca":"FIAT",
-"modello":"Punto",
-"tariffa":98,
-"cliente":{
- "nome":"Mario",
- "cognome":"Rossi",
- "anno":2000,
- "giorni":7
+ "giorni":2
  }
 }]
