@@ -1,0 +1,72 @@
+[{
+"targa":"FE949ER",
+"marca":"FIAT",
+"modello":"Punto",
+"tariffa":98,
+"cliente":{
+ "nome":"Mario",
+ "cognome":"Rossi",
+ "anno":2000,
+ "giorni":7
+ }
+},
+{
+"targa":"FE949ER",
+"marca":"FIAT",
+"modello":"Punto",
+"tariffa":98,
+"cliente":{
+ "nome":"Mario",
+ "cognome":"Rossi",
+ "anno":2000,
+ "giorni":7
+ }
+},
+{
+"targa":"FE949ER",
+"marca":"FIAT",
+"modello":"Punto",
+"tariffa":98,
+"cliente":{
+ "nome":"Mario",
+ "cognome":"Rossi",
+ "anno":2000,
+ "giorni":7
+ }
+},
+{
+"targa":"FE949ER",
+"marca":"FIAT",
+"modello":"Punto",
+"tariffa":98,
+"cliente":{
+ "nome":"Mario",
+ "cognome":"Rossi",
+ "anno":2000,
+ "giorni":7
+ }
+},
+{
+"targa":"FE949ER",
+"marca":"FIAT",
+"modello":"Punto",
+"tariffa":98,
+"cliente":{
+ "nome":"Mario",
+ "cognome":"Rossi",
+ "anno":2000,
+ "giorni":7
+ }
+},
+{
+"targa":"FE949ER",
+"marca":"FIAT",
+"modello":"Punto",
+"tariffa":98,
+"cliente":{
+ "nome":"Mario",
+ "cognome":"Rossi",
+ "anno":2000,
+ "giorni":7
+ }
+}]
