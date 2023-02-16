@@ -11,6 +11,42 @@
  }
 },
 {
+"targa":"FE949ER",
+"marca":"FIAT",
+"modello":"Punto",
+"tariffa":98,
+"cliente":{
+ "nome":"Simona",
+ "cognome":"Blu",
+ "anno":1956,
+ "giorni":3
+ }
+},
+{
+"targa":"FE949ER",
+"marca":"FIAT",
+"modello":"Punto",
+"tariffa":98,
+"cliente":{
+ "nome":"Giovanni",
+ "cognome":"Rustica",
+ "anno":1967,
+ "giorni":12
+ }
+},
+{
+"targa":"FE949ER",
+"marca":"FIAT",
+"modello":"Punto",
+"tariffa":98,
+"cliente":{
+ "nome":"Lucia",
+ "cognome":"Nero",
+ "anno":1988,
+ "giorni":9
+ }
+},
+{
 "targa":"XX948ER",
 "marca":"AUDI",
 "modello":"Q5",
